@@ -625,7 +625,8 @@ Available commands:
 
 # Main execution
 if __name__ == "__main__":
-    BOT_TOKEN = "8157492210:AAH-VNsKr6EVdU0MUoxuuMHXl9pngWcUEYM"
+    BOT_TOKEN = "8452415962:AAEX6vMHTfw6KM2ipUshrRQu4ehPrTWDhOA"
     
     bot = CharityWaterDonationBot(BOT_TOKEN)
+
     bot.run_bot()
